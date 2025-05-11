@@ -1,6 +1,6 @@
 # Good-Adobe-Alternatives
 
-This is inspired by [@KenneyNL](https://github.com/KenneyNL) from Github. This original version I got the idea from is: [KenneyNL Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives), and I made my own version of this, with the three adobe apps I used to use, Photoshop, Lightroom, and Preiere Pro. I would try others, but I recently Switched to Arch Linux on my main setup, and I've been wanting to try some alternatives. I wanted to make a list of adobe apps that I've already used over the years along side adobe apps, ones that I'm planning to try use, and some that I heard are good, but havent tried yet either due to time or financial constrains, hope you enjoy the list
+This is inspired by [@KenneyNL](https://github.com/KenneyNL) from Github. This original version I got the idea from is: [KenneyNL Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives), and I made my own version of this, with the three adobe apps I used to use, Photoshop, Lightroom, and Premiere Pro. I would try others, but I recently Switched to Arch Linux on my main setup, and I've been wanting to try some alternatives. I wanted to make a list of adobe apps that I've already used over the years along side adobe apps, ones that I'm planning to try use, and some that I heard are good, but havent tried yet either due to time or financial constrains, hope you enjoy the list
 
 ---
 
